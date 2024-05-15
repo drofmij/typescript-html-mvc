@@ -1,4 +1,4 @@
-MVC Typescript + HTML 
+MVP Typescript + HTML 
 1. install node https://nodejs.org/
 2. npm i -g typescript
 3. edit mycode.ts file and write up some code
