@@ -5,3 +5,4 @@ MVC Typescript + HTML
 4. tsc mycode.ts 
 5. do normal javascript include into your html
 
+Sources: https://www.freecodecamp.org/news/learn-typescript-beginners-guide/
